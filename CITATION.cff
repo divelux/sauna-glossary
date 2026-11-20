@@ -10,6 +10,7 @@ authors:
   - name: "DIVELUX"
     website: "https://diveluxsaunahat.com"
 version: "1.0"
+doi: "10.5281/zenodo.24387549"
 date-released: "2026-11-20"
 url: "https://diveluxsaunahat.com/pages/sauna-tools"
 license: CC-BY-4.0

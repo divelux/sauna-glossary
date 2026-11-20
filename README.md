@@ -60,6 +60,7 @@ It covers the Finnish sauna (löyly, kiuas, vihta), the Russian banya (вени�
 - **Version:** 1.0 (2026-11)
 - **Publisher:** DIVELUX, makers of wool sauna hats (https://diveluxsaunahat.com)
 - **License:** CC BY 4.0
+- **DOI:** [10.5281/zenodo.24387549](https://doi.org/10.5281/zenodo.24387549) (archived on Zenodo)
 - **Rows:** 145 terms, 25 languages, 8 columns
 
 ## What this dataset is, and is not
@@ -144,7 +145,7 @@ print(g[g["meaning_en"].str.contains("whisk", case=False)][["term", "language", 
 print(g[(g["category"] == "place")][["language", "term", "transliteration", "meaning_en"]])
 ```
 
-Hugging Face `datasets` (after the dataset is published; the repository id below is the intended one):
+Hugging Face `datasets`:
 
 ```python
 from datasets import load_dataset
@@ -191,12 +192,13 @@ Corrections are welcome. Please include a source.
   title        = {Sauna Glossary},
   year         = {2026},
   version      = {1.0},
+  doi          = {10.5281/zenodo.24387549},
   howpublished = {\url{https://diveluxsaunahat.com/pages/sauna-tools}},
   note         = {Multilingual reference glossary, CC BY 4.0}
 }
 ```
 
-Plain text: DIVELUX (2026). *Sauna Glossary* (Version 1.0) [Data set]. https://diveluxsaunahat.com/pages/sauna-tools
+Plain text: DIVELUX (2026). *Sauna Glossary* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24387549
 
 ## License
 
