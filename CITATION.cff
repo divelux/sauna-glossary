@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Sauna Glossary"
+abstract: >-
+  A multilingual glossary of sauna and bathhouse terms with English meanings,
+  transliterations and the bathing tradition each term belongs to. Compiled and
+  checked by hand; not a complete dictionary.
+authors:
+  - name: "DIVELUX"
+    website: "https://diveluxsaunahat.com"
+version: "1.0"
+date-released: "2026-11-20"
+url: "https://diveluxsaunahat.com/pages/sauna-tools"
+license: CC-BY-4.0
+keywords:
+  - sauna
+  - banya
+  - hammam
+  - glossary
+  - terminology
+  - multilingual
+  - cultural heritage

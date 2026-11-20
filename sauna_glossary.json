@@ -1,0 +1,1452 @@
+[
+  {
+    "term": "sauna",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "The heated room for sweat bathing, and the act of bathing in it",
+    "category": "place",
+    "tradition": "Finnish sauna",
+    "notes": "A Finnish word borrowed into many other languages."
+  },
+  {
+    "term": "savusauna",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Smoke sauna: heated by a stove with no chimney, the smoke is let out before bathing",
+    "category": "place",
+    "tradition": "Finnish smoke sauna",
+    "notes": null
+  },
+  {
+    "term": "kiuas",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Sauna stove topped with stones",
+    "category": "heat source",
+    "tradition": "Finnish sauna",
+    "notes": "Wood-burning or electric."
+  },
+  {
+    "term": "kiuaskivet",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Sauna stones, the stones piled on the stove",
+    "category": "heat source",
+    "tradition": "Finnish sauna",
+    "notes": "Plural of kiuaskivi."
+  },
+  {
+    "term": "löyly",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "The steam and wave of heat that rises when water is thrown on the hot stones",
+    "category": "steam",
+    "tradition": "Finnish sauna",
+    "notes": "Borrowed into other languages; Japanese ロウリュ comes from it."
+  },
+  {
+    "term": "lauteet",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "The raised benches of a sauna",
+    "category": "room",
+    "tradition": "Finnish sauna",
+    "notes": "Plural; the higher the bench, the hotter the air."
+  },
+  {
+    "term": "kiulu",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Small wooden pail with one long stave as its handle, used for sauna water",
+    "category": "tool",
+    "tradition": "Finnish sauna",
+    "notes": null
+  },
+  {
+    "term": "löylykauha",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Ladle for throwing water on the stones",
+    "category": "tool",
+    "tradition": "Finnish sauna",
+    "notes": "Often just kauha, 'ladle'."
+  },
+  {
+    "term": "vihta",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Bundle of leafy birch twigs used to whisk the skin",
+    "category": "tool",
+    "tradition": "Finnish sauna",
+    "notes": "The word used in western Finland."
+  },
+  {
+    "term": "vasta",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Bundle of leafy birch twigs used to whisk the skin",
+    "category": "tool",
+    "tradition": "Finnish sauna",
+    "notes": "The word used in eastern Finland for the same thing as vihta."
+  },
+  {
+    "term": "saunahattu",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Sauna hat",
+    "category": "headwear",
+    "tradition": "Finnish sauna",
+    "notes": "Usually wool felt, worn dry. Used by some bathers, not all."
+  },
+  {
+    "term": "pefletti",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Small seat cover to sit on in the sauna",
+    "category": "tool",
+    "tradition": "Finnish sauna",
+    "notes": "Colloquial; the neutral word is laudeliina."
+  },
+  {
+    "term": "avanto",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Hole cut in the ice of a lake or the sea, for a cold dip",
+    "category": "cooling",
+    "tradition": "Finnish sauna",
+    "notes": null
+  },
+  {
+    "term": "avantouinti",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "Ice swimming: swimming in a hole cut in the ice",
+    "category": "cooling",
+    "tradition": "Finnish sauna",
+    "notes": "A general word for winter swimming; often done between sauna rounds."
+  },
+  {
+    "term": "saunoa",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "To take a sauna (verb)",
+    "category": "practice",
+    "tradition": "Finnish sauna",
+    "notes": null
+  },
+  {
+    "term": "saunatonttu",
+    "language": "Finnish",
+    "language_code": "fi",
+    "transliteration": null,
+    "meaning_en": "The elf of Finnish folklore said to live in the sauna",
+    "category": "expression",
+    "tradition": "Finnish sauna",
+    "notes": "It is said to punish those who misbehave there."
+  },
+  {
+    "term": "saun",
+    "language": "Estonian",
+    "language_code": "et",
+    "transliteration": null,
+    "meaning_en": "Sauna",
+    "category": "place",
+    "tradition": "Estonian sauna",
+    "notes": null
+  },
+  {
+    "term": "suitsusaun",
+    "language": "Estonian",
+    "language_code": "et",
+    "transliteration": null,
+    "meaning_en": "Smoke sauna",
+    "category": "place",
+    "tradition": "Estonian smoke sauna (Võromaa)",
+    "notes": null
+  },
+  {
+    "term": "savvusann",
+    "language": "Võro",
+    "language_code": "vro",
+    "transliteration": null,
+    "meaning_en": "Smoke sauna",
+    "category": "place",
+    "tradition": "Estonian smoke sauna (Võromaa)",
+    "notes": "The Võro-language name used in the UNESCO listing for Võromaa."
+  },
+  {
+    "term": "keris",
+    "language": "Estonian",
+    "language_code": "et",
+    "transliteration": null,
+    "meaning_en": "Sauna stove with stones",
+    "category": "heat source",
+    "tradition": "Estonian sauna",
+    "notes": null
+  },
+  {
+    "term": "leil",
+    "language": "Estonian",
+    "language_code": "et",
+    "transliteration": null,
+    "meaning_en": "Steam from water thrown on the hot stones",
+    "category": "steam",
+    "tradition": "Estonian sauna",
+    "notes": "Cognate of Finnish löyly."
+  },
+  {
+    "term": "leiliruum",
+    "language": "Estonian",
+    "language_code": "et",
+    "transliteration": null,
+    "meaning_en": "The hot room of a sauna",
+    "category": "room",
+    "tradition": "Estonian sauna",
+    "notes": "Literally 'steam room'."
+  },
+  {
+    "term": "saunalava",
+    "language": "Estonian",
+    "language_code": "et",
+    "transliteration": null,
+    "meaning_en": "Raised platform in a sauna for taking the steam and whisking",
+    "category": "room",
+    "tradition": "Estonian sauna",
+    "notes": null
+  },
+  {
+    "term": "viht",
+    "language": "Estonian",
+    "language_code": "et",
+    "transliteration": null,
+    "meaning_en": "Bundle of leafy twigs used to whisk the skin",
+    "category": "tool",
+    "tradition": "Estonian sauna",
+    "notes": null
+  },
+  {
+    "term": "bastu",
+    "language": "Swedish",
+    "language_code": "sv",
+    "transliteration": null,
+    "meaning_en": "Sauna",
+    "category": "place",
+    "tradition": "Swedish bastu",
+    "notes": "Short for badstuga, 'bath cabin'."
+  },
+  {
+    "term": "badstuga",
+    "language": "Swedish",
+    "language_code": "sv",
+    "transliteration": null,
+    "meaning_en": "Bath cabin; the older word that bastu comes from",
+    "category": "place",
+    "tradition": "Swedish bastu",
+    "notes": null
+  },
+  {
+    "term": "bada bastu",
+    "language": "Swedish",
+    "language_code": "sv",
+    "transliteration": null,
+    "meaning_en": "To take a sauna",
+    "category": "practice",
+    "tradition": "Swedish bastu",
+    "notes": "Literally 'to bathe sauna'."
+  },
+  {
+    "term": "bastuaggregat",
+    "language": "Swedish",
+    "language_code": "sv",
+    "transliteration": null,
+    "meaning_en": "Sauna heater",
+    "category": "heat source",
+    "tradition": "Swedish bastu",
+    "notes": null
+  },
+  {
+    "term": "lave",
+    "language": "Swedish",
+    "language_code": "sv",
+    "transliteration": null,
+    "meaning_en": "Wooden bench in a sauna",
+    "category": "room",
+    "tradition": "Swedish bastu",
+    "notes": "Also bastulave, a form now used mostly in Finland-Swedish."
+  },
+  {
+    "term": "kallbadhus",
+    "language": "Swedish",
+    "language_code": "sv",
+    "transliteration": null,
+    "meaning_en": "Open-air bathhouse built by or over the sea or a lake for cold-water bathing",
+    "category": "place",
+    "tradition": "Swedish bastu",
+    "notes": "Many have a sauna."
+  },
+  {
+    "term": "badstue",
+    "language": "Norwegian",
+    "language_code": "no",
+    "transliteration": null,
+    "meaning_en": "Sauna",
+    "category": "place",
+    "tradition": "Norwegian badstue",
+    "notes": "Also written badstu."
+  },
+  {
+    "term": "saunagus",
+    "language": "Danish",
+    "language_code": "da",
+    "transliteration": null,
+    "meaning_en": "Session in which water with essential oils is poured on the stones and the hot air is fanned around",
+    "category": "practice",
+    "tradition": "Danish sauna",
+    "notes": "The Danish counterpart of the German Aufguss."
+  },
+  {
+    "term": "gusmester",
+    "language": "Danish",
+    "language_code": "da",
+    "transliteration": null,
+    "meaning_en": "The person who performs a saunagus, waving a towel or a fan",
+    "category": "person",
+    "tradition": "Danish sauna",
+    "notes": null
+  },
+  {
+    "term": "sundlaug",
+    "language": "Icelandic",
+    "language_code": "is",
+    "transliteration": null,
+    "meaning_en": "Swimming pool; in Iceland an outdoor geothermal pool with hot tubs",
+    "category": "place",
+    "tradition": "Icelandic geothermal pool and hot tub",
+    "notes": null
+  },
+  {
+    "term": "heitur pottur",
+    "language": "Icelandic",
+    "language_code": "is",
+    "transliteration": null,
+    "meaning_en": "Hot tub",
+    "category": "place",
+    "tradition": "Icelandic geothermal pool and hot tub",
+    "notes": "Literally 'hot pot'."
+  },
+  {
+    "term": "gufubað",
+    "language": "Icelandic",
+    "language_code": "is",
+    "transliteration": null,
+    "meaning_en": "Steam bath",
+    "category": "place",
+    "tradition": "Icelandic geothermal pool and hot tub",
+    "notes": null
+  },
+  {
+    "term": "баня",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "banya",
+    "meaning_en": "Russian steam bath",
+    "category": "place",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "баня по-чёрному",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "banya po-chyornomu",
+    "meaning_en": "'Black' banya: smoke-heated, with no chimney",
+    "category": "place",
+    "tradition": "Russian black banya",
+    "notes": null
+  },
+  {
+    "term": "баня по-белому",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "banya po-belomu",
+    "meaning_en": "'White' banya: the stove has a chimney, so the room stays free of smoke",
+    "category": "place",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "парилка",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "parilka",
+    "meaning_en": "The steam room of a banya",
+    "category": "room",
+    "tradition": "Russian banya",
+    "notes": "Also парная (parnaya)."
+  },
+  {
+    "term": "парная",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "parnaya",
+    "meaning_en": "The steam room of a banya",
+    "category": "room",
+    "tradition": "Russian banya",
+    "notes": "Also парилка (parilka)."
+  },
+  {
+    "term": "предбанник",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "predbannik",
+    "meaning_en": "The anteroom of a banya, for undressing, resting and tea",
+    "category": "room",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "каменка",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "kamenka",
+    "meaning_en": "The banya stove with its stones",
+    "category": "heat source",
+    "tradition": "Russian banya",
+    "notes": "From камень, 'stone'."
+  },
+  {
+    "term": "полок",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "polok",
+    "meaning_en": "The wide raised bench in the steam room, where bathers steam",
+    "category": "room",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "пар",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "par",
+    "meaning_en": "Steam",
+    "category": "steam",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "веник",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "venik",
+    "meaning_en": "Bundle of leafy twigs (birch, oak, eucalyptus) used to fan and whisk the skin",
+    "category": "tool",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "парение",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "parenie",
+    "meaning_en": "Steaming and whisking with a venik",
+    "category": "practice",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "парильщик",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "parilshchik",
+    "meaning_en": "The person who steams and whisks bathers",
+    "category": "person",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "банщик",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "banshchik",
+    "meaning_en": "Bathhouse attendant",
+    "category": "person",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "шайка",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "shaika",
+    "meaning_en": "Small wooden tub or tin basin with handles, for washing in a banya",
+    "category": "tool",
+    "tradition": "Russian banya",
+    "notes": null
+  },
+  {
+    "term": "банная шапка",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "bannaya shapka",
+    "meaning_en": "Banya hat",
+    "category": "headwear",
+    "tradition": "Russian banya",
+    "notes": "Usually wool felt, worn dry. Also шапка для бани (shapka dlya bani)."
+  },
+  {
+    "term": "С лёгким паром!",
+    "language": "Russian",
+    "language_code": "ru",
+    "transliteration": "S lyogkim parom!",
+    "meaning_en": "Friendly greeting to someone who has just come out of the banya",
+    "category": "expression",
+    "tradition": "Russian banya",
+    "notes": "Literally 'with light steam'. Also said after a bath or shower."
+  },
+  {
+    "term": "лазня",
+    "language": "Ukrainian",
+    "language_code": "uk",
+    "transliteration": "laznia",
+    "meaning_en": "Bathhouse, steam bath",
+    "category": "place",
+    "tradition": "Russian banya",
+    "notes": "The Ukrainian word for the same kind of bath."
+  },
+  {
+    "term": "віник",
+    "language": "Ukrainian",
+    "language_code": "uk",
+    "transliteration": "vinyk",
+    "meaning_en": "In a bathhouse, the bundle of leafy twigs used to whisk the skin",
+    "category": "tool",
+    "tradition": "Russian banya",
+    "notes": "The everyday meaning is 'broom'."
+  },
+  {
+    "term": "pirts",
+    "language": "Latvian",
+    "language_code": "lv",
+    "transliteration": null,
+    "meaning_en": "Latvian sauna",
+    "category": "place",
+    "tradition": "Latvian pirts",
+    "notes": null
+  },
+  {
+    "term": "melnā pirts",
+    "language": "Latvian",
+    "language_code": "lv",
+    "transliteration": null,
+    "meaning_en": "'Black' sauna: smoke-heated, with no chimney",
+    "category": "place",
+    "tradition": "Latvian pirts",
+    "notes": "Also dūmu pirts, 'smoke sauna'."
+  },
+  {
+    "term": "pirtnieks",
+    "language": "Latvian",
+    "language_code": "lv",
+    "transliteration": null,
+    "meaning_en": "Bath master who leads the ritual",
+    "category": "person",
+    "tradition": "Latvian pirts",
+    "notes": null
+  },
+  {
+    "term": "pirtsslota",
+    "language": "Latvian",
+    "language_code": "lv",
+    "transliteration": null,
+    "meaning_en": "Bath whisk, usually of birch twigs",
+    "category": "tool",
+    "tradition": "Latvian pirts",
+    "notes": "From slota, 'broom'."
+  },
+  {
+    "term": "gars",
+    "language": "Latvian",
+    "language_code": "lv",
+    "transliteration": null,
+    "meaning_en": "Steam, usually the steam in a pirts",
+    "category": "steam",
+    "tradition": "Latvian pirts",
+    "notes": "A separate word spelled the same way means 'spirit'."
+  },
+  {
+    "term": "lāva",
+    "language": "Latvian",
+    "language_code": "lv",
+    "transliteration": null,
+    "meaning_en": "Raised board platform in the pirts, usually stepped, for heating up and whisking",
+    "category": "room",
+    "tradition": "Latvian pirts",
+    "notes": null
+  },
+  {
+    "term": "pirtis",
+    "language": "Lithuanian",
+    "language_code": "lt",
+    "transliteration": null,
+    "meaning_en": "Lithuanian sauna",
+    "category": "place",
+    "tradition": "Lithuanian pirtis",
+    "notes": null
+  },
+  {
+    "term": "dūminė pirtis",
+    "language": "Lithuanian",
+    "language_code": "lt",
+    "transliteration": null,
+    "meaning_en": "Smoke sauna: a pirtis with no chimney",
+    "category": "place",
+    "tradition": "Lithuanian pirtis",
+    "notes": null
+  },
+  {
+    "term": "pirtininkas",
+    "language": "Lithuanian",
+    "language_code": "lt",
+    "transliteration": null,
+    "meaning_en": "Bath master who leads the session",
+    "category": "person",
+    "tradition": "Lithuanian pirtis",
+    "notes": null
+  },
+  {
+    "term": "vanta",
+    "language": "Lithuanian",
+    "language_code": "lt",
+    "transliteration": null,
+    "meaning_en": "Bundle of leafy twigs used to whisk the skin",
+    "category": "tool",
+    "tradition": "Lithuanian pirtis",
+    "notes": null
+  },
+  {
+    "term": "vanojimas",
+    "language": "Lithuanian",
+    "language_code": "lt",
+    "transliteration": null,
+    "meaning_en": "Whisking with a vanta",
+    "category": "practice",
+    "tradition": "Lithuanian pirtis",
+    "notes": null
+  },
+  {
+    "term": "garas",
+    "language": "Lithuanian",
+    "language_code": "lt",
+    "transliteration": null,
+    "meaning_en": "Steam; in a pirtis, the steam from water poured on the hot stones",
+    "category": "steam",
+    "tradition": "Lithuanian pirtis",
+    "notes": null
+  },
+  {
+    "term": "plautai",
+    "language": "Lithuanian",
+    "language_code": "lt",
+    "transliteration": null,
+    "meaning_en": "The raised benches of a pirtis, for sitting, lying and whisking",
+    "category": "room",
+    "tradition": "Lithuanian pirtis",
+    "notes": "Plural of plautas."
+  },
+  {
+    "term": "Aufguss",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Session in which a sauna master pours water, often scented, on the stones and fans the hot air with a towel",
+    "category": "practice",
+    "tradition": "German Aufguss sauna",
+    "notes": "Literally 'infusion' or 'pouring on'."
+  },
+  {
+    "term": "Saunameister",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Sauna master, the person who leads an Aufguss",
+    "category": "person",
+    "tradition": "German Aufguss sauna",
+    "notes": "Also Aufgussmeister."
+  },
+  {
+    "term": "Wedeln",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Fanning the hot air toward the bathers with a towel during an Aufguss",
+    "category": "practice",
+    "tradition": "German Aufguss sauna",
+    "notes": "An everyday verb meaning 'to wave'."
+  },
+  {
+    "term": "Saunagang",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "One round in the sauna",
+    "category": "practice",
+    "tradition": "German Aufguss sauna",
+    "notes": null
+  },
+  {
+    "term": "Ruheraum",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Rest room for lying down between rounds",
+    "category": "room",
+    "tradition": "German Aufguss sauna",
+    "notes": null
+  },
+  {
+    "term": "Tauchbecken",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Cold plunge pool for cooling off after a sauna round",
+    "category": "cooling",
+    "tradition": "German Aufguss sauna",
+    "notes": null
+  },
+  {
+    "term": "Dampfbad",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Steam bath",
+    "category": "place",
+    "tradition": "Steam room",
+    "notes": null
+  },
+  {
+    "term": "Biosauna",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Soft sauna: lower temperature and higher humidity than a Finnish sauna",
+    "category": "place",
+    "tradition": "Bio sauna (soft sauna)",
+    "notes": "Sanarium is a manufacturer's trade name for the same kind of room."
+  },
+  {
+    "term": "Wenik",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Bundle of birch twigs used to whisk the body, borrowed from Russian веник",
+    "category": "tool",
+    "tradition": "German Aufguss sauna",
+    "notes": null
+  },
+  {
+    "term": "Saunahut",
+    "language": "German",
+    "language_code": "de",
+    "transliteration": null,
+    "meaning_en": "Sauna hat",
+    "category": "headwear",
+    "tradition": "German Aufguss sauna",
+    "notes": "Usually wool felt, worn dry. Also Saunamütze."
+  },
+  {
+    "term": "opgieting",
+    "language": "Dutch",
+    "language_code": "nl",
+    "transliteration": null,
+    "meaning_en": "Pouring water on the sauna stove, and the session built around it",
+    "category": "practice",
+    "tradition": "Dutch sauna",
+    "notes": "The Dutch word for Aufguss."
+  },
+  {
+    "term": "saunameester",
+    "language": "Dutch",
+    "language_code": "nl",
+    "transliteration": null,
+    "meaning_en": "Sauna master: the staff member who looks after guests and performs the opgieting",
+    "category": "person",
+    "tradition": "Dutch sauna",
+    "notes": null
+  },
+  {
+    "term": "dompelbad",
+    "language": "Dutch",
+    "language_code": "nl",
+    "transliteration": null,
+    "meaning_en": "Cold plunge bath for cooling off after the sauna",
+    "category": "cooling",
+    "tradition": "Dutch sauna",
+    "notes": null
+  },
+  {
+    "term": "hamam",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Turkish bath",
+    "category": "place",
+    "tradition": "Turkish hammam",
+    "notes": "English usually writes hammam, after the Arabic."
+  },
+  {
+    "term": "külhan",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "The furnace that heats the bath's floor, walls and water",
+    "category": "heat source",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "göbektaşı",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "The heated marble platform in the middle of the hot room",
+    "category": "room",
+    "tradition": "Turkish hammam",
+    "notes": "Literally 'navel stone'. Also written göbek taşı."
+  },
+  {
+    "term": "sıcaklık",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "The hot room of a hamam, where bathers wash",
+    "category": "room",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "soğukluk",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "The cool room for resting",
+    "category": "room",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "camekân",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "The glazed changing room of a hamam",
+    "category": "room",
+    "tradition": "Turkish hammam",
+    "notes": "In everyday Turkish the word now mostly means a shop window."
+  },
+  {
+    "term": "kurna",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Round marble or stone basin under the tap, where the water collects",
+    "category": "tool",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "hamam tası",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Shallow bowl for scooping water from the basin and pouring it over the body",
+    "category": "tool",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "kese",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Coarse mitt for scrubbing the skin",
+    "category": "tool",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "peştemal",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Flat-woven cotton wrap worn in the hamam",
+    "category": "tool",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "nalın",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Wooden clogs worn on the wet floor",
+    "category": "tool",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "tellak",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Male bath attendant who scrubs and washes bathers",
+    "category": "person",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "natır",
+    "language": "Turkish",
+    "language_code": "tr",
+    "transliteration": null,
+    "meaning_en": "Female bath attendant",
+    "category": "person",
+    "tradition": "Turkish hammam",
+    "notes": null
+  },
+  {
+    "term": "حمّام",
+    "language": "Arabic",
+    "language_code": "ar",
+    "transliteration": "ḥammām",
+    "meaning_en": "Bath, bathhouse",
+    "category": "place",
+    "tradition": "Moroccan hammam",
+    "notes": "The word behind English hammam and Turkish hamam."
+  },
+  {
+    "term": "صابون بلدي",
+    "language": "Arabic",
+    "language_code": "ar",
+    "transliteration": "ṣābūn baladī",
+    "meaning_en": "Soft black soap made from olive oil",
+    "category": "tool",
+    "tradition": "Moroccan hammam",
+    "notes": "Known by its French-Moroccan name savon beldi."
+  },
+  {
+    "term": "غاسول",
+    "language": "Arabic",
+    "language_code": "ar",
+    "transliteration": "ghāsūl",
+    "meaning_en": "Mineral clay used to wash the skin and hair",
+    "category": "tool",
+    "tradition": "Moroccan hammam",
+    "notes": "Written rhassoul or ghassoul in English."
+  },
+  {
+    "term": "savon noir",
+    "language": "French",
+    "language_code": "fr",
+    "transliteration": null,
+    "meaning_en": "Soft soap made from vegetable oil and potash; in a hammam, the black olive soap used before the scrub",
+    "category": "tool",
+    "tradition": "Moroccan hammam",
+    "notes": "Literally 'black soap'."
+  },
+  {
+    "term": "gant de kessa",
+    "language": "French",
+    "language_code": "fr",
+    "transliteration": null,
+    "meaning_en": "Rough Moroccan scrubbing glove used in hammams",
+    "category": "tool",
+    "tradition": "Moroccan hammam",
+    "notes": "Kessa is the French spelling of the Arabic word for the glove."
+  },
+  {
+    "term": "كيس",
+    "language": "Arabic",
+    "language_code": "ar",
+    "transliteration": "kīs",
+    "meaning_en": "Coarse cloth mitt used to rub off dead skin after the black soap",
+    "category": "tool",
+    "tradition": "Moroccan hammam",
+    "notes": "Literally 'bag'. Written kessa in French and English."
+  },
+  {
+    "term": "გოგირდის აბანო",
+    "language": "Georgian",
+    "language_code": "ka",
+    "transliteration": "gogirdis abano",
+    "meaning_en": "Sulfur bath",
+    "category": "place",
+    "tradition": "Georgian sulfur bath",
+    "notes": "The domed bathhouses of Tbilisi's Abanotubani district."
+  },
+  {
+    "term": "ქისა",
+    "language": "Georgian",
+    "language_code": "ka",
+    "transliteration": "kisa",
+    "meaning_en": "Fingerless mitt of coarse cloth for rubbing the body in the bath",
+    "category": "tool",
+    "tradition": "Georgian sulfur bath",
+    "notes": "Variant: ქესა (kesa). The first meaning of the word is 'purse'."
+  },
+  {
+    "term": "მექისე",
+    "language": "Georgian",
+    "language_code": "ka",
+    "transliteration": "mekise",
+    "meaning_en": "Bath attendant who gives the scrub with the kisa",
+    "category": "person",
+    "tradition": "Georgian sulfur bath",
+    "notes": null
+  },
+  {
+    "term": "thermae",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Large public bath complex",
+    "category": "place",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "balneae",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Baths, usually smaller ones",
+    "category": "place",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "apodyterium",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Changing room",
+    "category": "room",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "tepidarium",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Warm room",
+    "category": "room",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "caldarium",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Hot room",
+    "category": "room",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "frigidarium",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Cold room with a cold plunge",
+    "category": "room",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "laconicum",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Dry sweating room",
+    "category": "room",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "sudatorium",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Vaulted sweating room",
+    "category": "room",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "natatio",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Swimming pool, the open-air pool of a bath complex",
+    "category": "place",
+    "tradition": "Roman baths (historical)",
+    "notes": null
+  },
+  {
+    "term": "hypocaustum",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Underfloor heating system",
+    "category": "heat source",
+    "tradition": "Roman baths (historical)",
+    "notes": "English: hypocaust."
+  },
+  {
+    "term": "strigilis",
+    "language": "Latin",
+    "language_code": "la",
+    "transliteration": null,
+    "meaning_en": "Curved scraper for removing oil and sweat from the skin",
+    "category": "tool",
+    "tradition": "Roman baths (historical)",
+    "notes": "English: strigil."
+  },
+  {
+    "term": "teach allais",
+    "language": "Irish",
+    "language_code": "ga",
+    "transliteration": null,
+    "meaning_en": "Sweat house",
+    "category": "place",
+    "tradition": "Irish sweat house (historical)",
+    "notes": "Literally 'house of sweat'."
+  },
+  {
+    "term": "サウナ",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "sauna",
+    "meaning_en": "Sauna",
+    "category": "place",
+    "tradition": "Japanese sauna",
+    "notes": null
+  },
+  {
+    "term": "銭湯",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "sentō",
+    "meaning_en": "Neighborhood public bathhouse",
+    "category": "place",
+    "tradition": "Japanese sento",
+    "notes": null
+  },
+  {
+    "term": "温泉",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "onsen",
+    "meaning_en": "Hot spring, and the baths fed by one",
+    "category": "place",
+    "tradition": "Japanese onsen",
+    "notes": null
+  },
+  {
+    "term": "露天風呂",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "rotenburo",
+    "meaning_en": "Open-air bath",
+    "category": "place",
+    "tradition": "Japanese onsen",
+    "notes": null
+  },
+  {
+    "term": "岩盤浴",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "ganban'yoku",
+    "meaning_en": "Bedrock bathing: lying on stone slabs warmed to about 40 °C",
+    "category": "practice",
+    "tradition": "Japanese sauna",
+    "notes": null
+  },
+  {
+    "term": "水風呂",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "mizuburo",
+    "meaning_en": "Cold-water bath taken after the sauna",
+    "category": "cooling",
+    "tradition": "Japanese sauna",
+    "notes": null
+  },
+  {
+    "term": "外気浴",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "gaikiyoku",
+    "meaning_en": "Resting in the open air after the cold bath",
+    "category": "cooling",
+    "tradition": "Japanese sauna",
+    "notes": null
+  },
+  {
+    "term": "ととのう",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "totonou",
+    "meaning_en": "The settled, relaxed state after repeating sauna, cold bath and rest",
+    "category": "expression",
+    "tradition": "Japanese sauna",
+    "notes": "A sauna slang use of a verb meaning 'to be put in order'."
+  },
+  {
+    "term": "ロウリュ",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "rōryu",
+    "meaning_en": "Pouring water on the hot sauna stones for steam, or that steam",
+    "category": "steam",
+    "tradition": "Japanese sauna",
+    "notes": "From Finnish löyly. Also written ロウリュウ."
+  },
+  {
+    "term": "アウフグース",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "aufugūsu",
+    "meaning_en": "Aufguss: staff fan the steam toward bathers with towels",
+    "category": "practice",
+    "tradition": "Japanese sauna",
+    "notes": "From German Aufguss."
+  },
+  {
+    "term": "熱波師",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "neppashi",
+    "meaning_en": "'Heat-wave master': the person who fans hot air at the bathers",
+    "category": "person",
+    "tradition": "Japanese sauna",
+    "notes": "The Japanese name for an Aufguss performer."
+  },
+  {
+    "term": "サウナー",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "saunā",
+    "meaning_en": "A sauna enthusiast",
+    "category": "person",
+    "tradition": "Japanese sauna",
+    "notes": "A Japanese-made English word, 'saunner'."
+  },
+  {
+    "term": "サ飯",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "sameshi",
+    "meaning_en": "'Sauna meal': the food eaten after a sauna",
+    "category": "food and drink",
+    "tradition": "Japanese sauna",
+    "notes": "Short for サウナ飯."
+  },
+  {
+    "term": "サウナハット",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "sauna hatto",
+    "meaning_en": "Sauna hat",
+    "category": "headwear",
+    "tradition": "Japanese sauna",
+    "notes": "Wool felt or cotton terry."
+  },
+  {
+    "term": "手ぬぐい",
+    "language": "Japanese",
+    "language_code": "ja",
+    "transliteration": "tenugui",
+    "meaning_en": "Thin cotton hand towel",
+    "category": "tool",
+    "tradition": "Japanese sento",
+    "notes": "Often folded on top of the head to keep it out of the bath water."
+  },
+  {
+    "term": "찜질방",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "jjimjilbang",
+    "meaning_en": "Large bathhouse with heated rooms, baths and a shared lounge",
+    "category": "place",
+    "tradition": "Korean jjimjilbang",
+    "notes": null
+  },
+  {
+    "term": "한증막",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "hanjeungmak",
+    "meaning_en": "Traditional dome-shaped kiln sauna",
+    "category": "place",
+    "tradition": "Korean hanjeungmak",
+    "notes": null
+  },
+  {
+    "term": "불가마",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "bulgama",
+    "meaning_en": "'Fire kiln': a very hot kiln room in a jjimjilbang",
+    "category": "room",
+    "tradition": "Korean jjimjilbang",
+    "notes": null
+  },
+  {
+    "term": "목욕탕",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "mogyoktang",
+    "meaning_en": "Public bathhouse",
+    "category": "place",
+    "tradition": "Korean jjimjilbang",
+    "notes": null
+  },
+  {
+    "term": "냉탕",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "naengtang",
+    "meaning_en": "Cold pool",
+    "category": "cooling",
+    "tradition": "Korean jjimjilbang",
+    "notes": null
+  },
+  {
+    "term": "세신",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "sesin",
+    "meaning_en": "Full-body scrub given by an attendant",
+    "category": "practice",
+    "tradition": "Korean jjimjilbang",
+    "notes": "Often romanized seshin."
+  },
+  {
+    "term": "때밀이",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "ttaemiri",
+    "meaning_en": "Bathhouse worker who scrubs the dirt off bathers",
+    "category": "person",
+    "tradition": "Korean jjimjilbang",
+    "notes": "Also called 세신사 (sesinsa)."
+  },
+  {
+    "term": "이태리타월",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "itaeri tawol",
+    "meaning_en": "'Italy towel': the coarse cloth used for scrubbing the skin",
+    "category": "tool",
+    "tradition": "Korean jjimjilbang",
+    "notes": "The name comes from a brand. Also written 이태리 타올."
+  },
+  {
+    "term": "양머리",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "yangmeori",
+    "meaning_en": "'Sheep head': a towel folded with a roll over each ear",
+    "category": "headwear",
+    "tradition": "Korean jjimjilbang",
+    "notes": "A playful custom, not a heat hat."
+  },
+  {
+    "term": "식혜",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "sikhye",
+    "meaning_en": "Sweet rice drink served cold",
+    "category": "food and drink",
+    "tradition": "Korean jjimjilbang",
+    "notes": null
+  },
+  {
+    "term": "맥반석 계란",
+    "language": "Korean",
+    "language_code": "ko",
+    "transliteration": "maekbanseok gyeran",
+    "meaning_en": "Eggs baked on hot stones, a jjimjilbang snack",
+    "category": "food and drink",
+    "tradition": "Korean jjimjilbang",
+    "notes": null
+  },
+  {
+    "term": "inípi",
+    "language": "Lakota",
+    "language_code": "lkt",
+    "transliteration": null,
+    "meaning_en": "The Lakota purification ceremony held in a sweat lodge",
+    "category": "practice",
+    "tradition": "Native American sweat lodge",
+    "notes": "Also iníkaǧapi. A sacred ceremony, not a recreational bath. Listed for reference only."
+  },
+  {
+    "term": "temazcalli",
+    "language": "Nahuatl",
+    "language_code": "nah",
+    "transliteration": null,
+    "meaning_en": "Sweat house, sweat bath",
+    "category": "place",
+    "tradition": "Temazcal",
+    "notes": "From calli, 'house'; the first part is explained as 'to bathe' or as 'heat'. Spanish: temazcal."
+  },
+  {
+    "term": "temazcal",
+    "language": "Spanish",
+    "language_code": "es",
+    "transliteration": null,
+    "meaning_en": "Mesoamerican sweat house, and the ceremony held in it",
+    "category": "place",
+    "tradition": "Temazcal",
+    "notes": "From Nahuatl temazcalli."
+  },
+  {
+    "term": "temazcalero",
+    "language": "Spanish",
+    "language_code": "es",
+    "transliteration": null,
+    "meaning_en": "The person who leads a temazcal",
+    "category": "person",
+    "tradition": "Temazcal",
+    "notes": "Feminine: temazcalera."
+  },
+  {
+    "term": "bagno turco",
+    "language": "Italian",
+    "language_code": "it",
+    "transliteration": null,
+    "meaning_en": "Turkish bath",
+    "category": "place",
+    "tradition": "Turkish hammam",
+    "notes": "Synonym: hammam."
+  }
+]

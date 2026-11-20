@@ -1,0 +1,37 @@
+{
+  "title": "Sauna Glossary",
+  "id": "divelux/sauna-glossary",
+  "subtitle": "145 sauna and bathhouse terms in 25 languages, with English meanings",
+  "description": "A multilingual glossary of sauna and bathhouse words: 145 terms in 25 languages. Each row gives the term in its own script, a transliteration where the script is not Latin, a short meaning in plain English, a category (place, room, heat source, steam, tool, practice, person, headwear, cooling, expression, food and drink) and the bathing tradition it belongs to. The tradition names match the Sauna Traditions of the World dataset, so the two can be joined.\n\nCompiled and checked by hand; only terms that could be confirmed are included. It is a reference word list, not a complete dictionary. Version 1.0 (2026-11). Published by DIVELUX, makers of wool sauna hats: https://diveluxsaunahat.com/pages/sauna-tools",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "culture and humanities",
+    "languages",
+    "linguistics",
+    "tabular",
+    "beginner"
+  ],
+  "resources": [
+    {
+      "path": "sauna_glossary.csv",
+      "description": "The glossary: one row per term (145 rows, 8 columns), UTF-8."
+    },
+    {
+      "path": "sauna_glossary.json",
+      "description": "Same data as sauna_glossary.csv as a JSON array; empty cells are null."
+    },
+    {
+      "path": "validate.py",
+      "description": "Validation script: columns, duplicates, vocabularies, scripts and transliterations, CSV/JSON agreement."
+    },
+    {
+      "path": "build_glossary.py",
+      "description": "Source records; regenerates the CSV and JSON files."
+    }
+  ]
+}
